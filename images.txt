@@ -8,4 +8,5 @@
 #mysql:8.0.39
 #xuxueli/xxl-job-admin:2.4.1
 #elasticsearch:7.17.23
-kibana:7.17.23
+#kibana:7.17.23
+rabbitmq:3.13.7
