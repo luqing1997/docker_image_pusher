@@ -9,4 +9,5 @@
 #xuxueli/xxl-job-admin:2.4.1
 #elasticsearch:7.17.23
 #kibana:7.17.23
-rabbitmq:3.13.7
+#rabbitmq:3.13.7
+nacos/nacos-server:2.4.2
