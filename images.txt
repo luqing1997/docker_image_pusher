@@ -11,4 +11,5 @@
 #kibana:7.17.23
 #rabbitmq:3.13.7
 #nacos/nacos-server
-nacos/nacos-server:v2.4.2
+#nacos/nacos-server:v2.4.2
+nacos/nacos-server:v2.2.3
